@@ -22,7 +22,7 @@ To set up the project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/iamaryannnn/Epileptic_Seizure_Detection_using_CNN.git
 cd your-repository
 
 Install the required Python libraries:
